@@ -23,6 +23,7 @@ st.markdown("""
 * _Vad har sagts om urban mobility de senaste 60 dagarna_
 * _Kan man se nån speciell niche inom impact som ger indikationer på tillväxt?_
 * _Vilka bolag har gått i konkurs senaste halvåret, och finns det nått gemensamt mönster?_
+* _Vad är det senaste inom foodtech?_
 """, unsafe_allow_html=True)
 
 
