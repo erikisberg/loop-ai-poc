@@ -21,7 +21,7 @@ st.subheader("Utforska materialet på Impact Loop med hjälp av AI")
 user_input = st.text_area("Berätta mer om vad du är ute efter för material?")
 st.markdown("""
 * _Vad har sagts om urban mobility de senaste 60 dagarna_
-* _Aa_
+* _Kan man se nån speciell niche inom impact som ger indikationer på tillväxt?_
 * _Aa_
 """, unsafe_allow_html=True)
 
