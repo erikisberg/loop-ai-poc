@@ -34,7 +34,7 @@ def send_post_request(input_text):
         "body": input_text, 
     }
     
-    with st.spinner('Vi letar aktiviteter och rekommendationer...'):
+    with st.spinner('Letar igenom tillgänglig info...'):
         response = requests.post(url, json=data, headers=headers)
     
     if response.status_code == 200:
