@@ -24,6 +24,7 @@ st.markdown("""
 * _Kan man se nån speciell niche inom impact som ger indikationer på tillväxt?_
 * _Vilka bolag har gått i konkurs senaste halvåret, och finns det nått gemensamt mönster?_
 * _Vad är det senaste inom foodtech?_
+* _Baserat på infon från Impact Loop, vad ska jag tänka på inför en investering i ett bolag som säljer elektriska fordon?_
 """, unsafe_allow_html=True)
 
 
