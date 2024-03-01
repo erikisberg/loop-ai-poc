@@ -22,7 +22,7 @@ user_input = st.text_area("Berätta mer om vad du är ute efter för material?")
 st.markdown("""
 * _Vad har sagts om urban mobility de senaste 60 dagarna_
 * _Kan man se nån speciell niche inom impact som ger indikationer på tillväxt?_
-* _Aa_
+* _Vilka bolag har gått i konkurs senaste halvåret, och finns det nått gemensamt mönster?_
 """, unsafe_allow_html=True)
 
 
