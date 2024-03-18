@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Editors
+.vscode/
+.idea/
+
+# Scraped data
+scraped_data/
+
+# Pinecone data
+pinecone_data/
+
+# Miscellaneous
+.DS_Store
